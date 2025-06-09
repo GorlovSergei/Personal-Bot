@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+openai
+requests
+aiohttp
+SpeechRecognition
+pydub
+apscheduler
